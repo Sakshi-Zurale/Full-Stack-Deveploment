@@ -1,0 +1,15 @@
+{
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.acceptSuggestionOnCommitCharacter": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.wordBasedSuggestions": "currentDocument",
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*.html": "html"
+  }
+}
